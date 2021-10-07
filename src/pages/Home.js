@@ -14,7 +14,7 @@ const Home = () => {
               <button className="btn btn-outline-primary" variant="outline-primary">Buscar</button>
             </div>
             <div>
-              <button className="btn btn-primary btn-job">post a job</button>
+              <button className="btn btn-primary btn-job" href="/src/pages/New_Job.js">post a job</button>
             </div>
           </div>
         </div>

@@ -123,8 +123,8 @@ button {
 
 .jobs{
   padding: 2%;
-    padding-top: 1%;
-    width: 100%;
+  padding-top: 1%;
+  width: 100%;
 }
 
 .Container_busqueda{
@@ -136,5 +136,13 @@ button {
   display: flex;
   flex-direction: row;
   margin-bottom: 1%;
-  
+}
+
+.Container_Job{
+  display: flex;
+  justify-content: center;
+}
+
+.Job_Form{
+  width: 40%;
 }
